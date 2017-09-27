@@ -1,2 +1,2 @@
 # Homeworld-SQL
-database of ships form RTS Homeworld
+Database of ships form RTS Homeworld
